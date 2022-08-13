@@ -1,0 +1,10 @@
+/node_modules
+/build
+loan.js
+index.js
+.vscode
+hardhat.config.js
+/scripts
+.etherscanApi
+.mnemonic
+.infuraKey
